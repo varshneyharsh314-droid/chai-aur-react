@@ -11,6 +11,11 @@ function App() {
 
   const addValue = () => {
     //counter = counter + 1
+    //counter = counter + 1
+    //counter = counter + 1
+    //counter = counter + 1 
+    // only add 1 if u want to add 4  use lower method 
+    
     setCounter(prevCounter => prevCounter + 1)
     setCounter(prevCounter => prevCounter + 1 )
     setCounter(prevCounter => prevCounter + 1)
